@@ -1,6 +1,0 @@
-all: clean build
-	echo done making all
-clean:
-	echo cleaning...
-build:
-	echo building...
